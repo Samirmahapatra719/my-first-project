@@ -1,0 +1,12 @@
+.chat{
+  width:400px;
+  margin:auto;
+  text-align:center;
+}
+
+.messages{
+  height:300px;
+  border:1px solid gray;
+  overflow-y:auto;
+  margin-bottom:10px;
+}
